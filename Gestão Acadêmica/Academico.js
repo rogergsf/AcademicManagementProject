@@ -15,7 +15,7 @@ function menu() {
     console.log("6 - Listar alunos");
     console.log("7 - Listar alunos por disciplina");
     console.log("8 - Listar disciplinas por professores");
-    console.log("9 - Listar alunos por disciplinas");
+    console.log("9 - Listar alunos por professor");
     console.log("0 - Sair");
     console.log("\n");
 
