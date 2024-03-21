@@ -1,2 +1,2 @@
-# Projeto_GestaoAcademica
-Sistema de gestão acadêmica em JavaScript com readline-sync para interação via linha de comando.
+# Academic_Management_Project
+Academic management system in JS with readline-sync for interaction by command line.
